@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtaSahin?tab=repositories](https://github.com/AtaSahin?tab=repositories)
 
-- 💬 Ask me about **React Native ,TypeScript, ASP.Net Core**
+- 📝 I write articles on <a href="https://medium.com/@atasahin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atasahin05" height="30" width="40" /></a> [https://medium.com/@atasahin05](https://medium.com/@atasahin05)
 
 - 📫 How to reach me **atasahin05@gmail.com**
 
