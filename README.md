@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning ASP.Net Core **MVC Projects, .Net Core Libraries, integrated technologies**
 
-- ⚡ Check my Starbucks mobile app clone prject written with React-Native [Starbucks-Mobile-App](https://github.com/AtaSahin/Netflix-Mobile-App)
+- ⚡ Check my Starbucks mobile app clone prject written with React-Native [Starbucks-Mobile-App](https://github.com/AtaSahin/Starbucks-Mobile-App)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtaSahin?tab=repositories](https://github.com/AtaSahin?tab=repositories)
 
