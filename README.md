@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ata</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on ASP.Net, C#,JS [MusicLibrary](https://github.com/AtaSahin/MusicLibrary)
+- 🔭 I’m currently working on ASP.Net Project of: [MusicLibrary](https://github.com/AtaSahin/MusicLibrary)
 
 - 🌱 I’m currently learning ASP.Net Core **MVC Projects, .Net Core Libraries, integrated technologies**
 
