@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ata</h1>
 <h3 align="center">A passionate frontend / partime backend developer from Turkey</h3>
 
-![](https://komarev.com/ghpvc/?username=AtaSahin&label=PROFILE+VIEWS)
 
 - 🔭 I’m currently working on ASP.Net Project of: [MusicLibrary](https://github.com/AtaSahin/MusicLibrary)
 
