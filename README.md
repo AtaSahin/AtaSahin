@@ -3,9 +3,6 @@
 <h3 align="center">A passionate frontend / partime backend developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on React && ASP.Net Project of: [React-ASP.Net](https://github.com/AtaSahin/React-ASP.Net)
-
-- 🌱 I’m currently learning ASP.Net Core **MVC Projects, .Net Core Libraries, integrated technologies**
 
 - ⚡ Check my Starbucks mobile app clone prject written with React-Native [Starbucks-Mobile-App](https://github.com/AtaSahin/Starbucks-Mobile-App)
 
