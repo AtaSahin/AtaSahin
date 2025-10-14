@@ -1,12 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Ata</h1>
-<h3 align="center">A passionate frontend / partime backend developer from Turkey</h3>
 
 
 
-- ⚡ Check my Starbucks mobile app clone prject written with React-Native [Starbucks-Mobile-App](https://github.com/AtaSahin/Starbucks-Mobile-App)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AtaSahin?tab=repositories](https://github.com/AtaSahin?tab=repositories)
 
 - 📝 I write articles on <a href="https://medium.com/@atasahin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atasahin05" height="30" width="40" /></a> [https://medium.com/@atasahin05](https://medium.com/@atasahin05)
 
